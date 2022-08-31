@@ -1,3 +1,5 @@
+# Respuestas
+
 a) donde itr es un iterador y lst es una lista dinámica
 while( itr != lst.end( ) )
 
